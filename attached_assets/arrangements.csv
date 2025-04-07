@@ -1,0 +1,17 @@
+date,absent_teacher,replacement_teacher,class,period,status,absent_category,replacement_category,match_quality,absent_name,replacement_name
+2025-03-06,T5,T4,X B MATHS,1,assigned,,,,,
+2025-03-06,T5,T1,X B MATHS,2,assigned,,,,,
+2025-03-30,T004,T001,A,3,manually_assigned,P.G.T,P.G.T,ideal,,
+2025-04-05,T007,T001,XI C/D ENGLISH,2,PENDING,PGT,PGT,Suboptimal,Mr. Desh Deepak Sharma,Mr. Akash kushwah
+2025-04-05,T007,T039,X-B ENGLISH,3,PENDING,PGT,TGT,Acceptable,Mr. Desh Deepak Sharma,Ms. Shalini Srivastava
+2025-04-05,T007,T043,X-C ENGLISH,5,PENDING,PGT,PGT,Ideal,Mr. Desh Deepak Sharma,MS. SUGANDHA SHARMA
+2025-04-05,T007,T043,XII C/D ENGLISH,6,PENDING,PGT,PGT,Ideal,Mr. Desh Deepak Sharma,MS. SUGANDHA SHARMA
+2025-04-05,T007,T010,X-B ENGLISH,7,PENDING,PGT,PGT,Suboptimal,Mr. Desh Deepak Sharma,Ms. Geetesh Rawat
+2025-04-05,T009,T049,X-B MATHS,1,PENDING,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. S.N. Sharma
+2025-04-05,T009,T022,X-B AI,2,PENDING,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. Nirbhay Goyal
+2025-04-05,T009,T039,IX - D MATHS,3,PENDING,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Ms. Shalini Srivastava
+2025-04-07,T009,T049,(X-B) MATHS,1,ASSIGNED,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. S.N. Sharma
+2025-04-07,T009,T049,(X-B) MATHS,2,ASSIGNED,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. S.N. Sharma
+2025-04-07,T009,T049,(IX - D) MATHS,3,ASSIGNED,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. S.N. Sharma
+2025-04-07,T009,T028,(IX - D) MATHS,4,ASSIGNED,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. Prem Prakash Chaudhary
+2025-04-07,T009,T024,(X C) AI,6,ASSIGNED,TGT,TGT,Suboptimal,Mr. Gaurav Sharma,Mr. Prabhakar Dubey
