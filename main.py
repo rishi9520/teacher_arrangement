@@ -12,13 +12,7 @@ import pathlib
 from streamlit_lottie import st_lottie
 import re
 import json
-from auth import (
-    check_password,
-    register_user,
-    send_password_reset_otp,
-    reset_password,
-    get_user_role,
-)
+from utils.auth import check_password, register_user, send_password_reset_otp, reset_password, get_user_role
 from data_manager import DataManager
 from utils.theme import initialize_theme, toggle_theme, apply_theme
 from components.dashboard import render_dashboard
