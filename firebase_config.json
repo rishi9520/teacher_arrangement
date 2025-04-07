@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-teacher-attaindance",
+  "private_key_id": "25a2c3dfdd00c3b397a707f799b0088105bf5898",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTYOCNoXki45Fv\nyDtoNZ46v91H3f337zFku5TPH29cGt+mFd+TFYOtkkPmLR3i2+AlswYAmd4KCkyB\nfCskwWhBTha+O5kGVP8MDGnQ3OpJl89qtVtuuUeDKn9D6p0JcVCtfRo2r+Oay7YE\nQfLob/n9GTp94GLrc2vqRmkdkDRllfDVd5lLT6JUJPASOGj4U6lp70uO6dk+bTNy\nhwmqA7yK/+1lRN5e1kQVb3hSDTV9tYDrbfBr98FNG95N9MhIt2+vY1AlSiSv0op4\nE0VyvLczHFhGLv4t/aTYcY0ayfQ7T8jUTtje+dgrf7TyG4PMSIHTXwosFJDWQPof\n7rB5we1dAgMBAAECggEANe5EvL4TGxy20a9jwN3VRiYHvjtcffKwRoQ5nnLlxbkx\nkL2J8owNsa5c1pByTJxO3y+C+4pGhYdFJ9BXbaRPBkJ3OQgZreznudo88UY8HJS4\nHgCxmFl7bnLcT6a/dFZOAEWn94X+61LIWOO+pyFSxgm2y8EBXBNx2C8oyJsvUy9s\nhFhtf1GKLrLCaI1cv/Ad/RLkTrlrzWCP3tRfClNs2G1kAJHTs/dHI7MJXllvLDkg\ngNQjivP5QGp8go27En9L4TzQN+i+0rrAjE7hljiZVsY8P/4HcNaS1OyYJVp9Rijj\nnG/3DFtRkhtd0Bd9WZFDVf9PcxKQsHK5Af98QdkXfQKBgQD2AujO39oLEDAYjfFI\nCQ4mQo04iUaG+u+eRU6FJ2cYdnS2jL1t0ja32VleqtxK79Guf1fJAvVyGOC8LGJi\ndBtFKZ6VQY4gefXTwM8YIYjHp+ef1h0rMP2UXZYti8huyFsS/qa0GQ1HPU1zcrXo\n6gd//k9DJ0tnhS55ercGsY/afwKBgQDb9fx1kzwAgNxf7MHlSC3j1YmFxuqscXIk\nbVndb5MGCVVNA/N6kLYZEpP2ogzGw7cyfmM4IJ1xggp2tBXyoke1up+kW32SGNc6\nfShvzq54FrfOGRqi2vsju31Wb0Imn6yWhT1Jf0MtKdR/gwVQJ4XP6tpyDqFEVrsP\nQ1z0ZfXyIwKBgEhHbI0zecWcWPUt5wEKIA0fqow80OrhmTtAE6TNgd3PF9V2nkVA\n6PC1PCuzOYwOz+Vb5rfZVbHTG1xOEg3pHQYCB2TE4PQrwQ0Y7f+iAqTecRAmAWXq\nO+a2ZGQ3WIkr9o4rIWFyptMScMoFnuqyr8dsOW96gQ4GNDRe2J1v19sTAoGBALhZ\nxxiHqN9HIOwoky1mPEfafWMonyCeCCstlwa274M8qUheCl9sD6Kd5nLryEeCWvUv\n5lpxQ2ORuNFaB5cOmYle+1OV9n1O4nw7z3s9vw4ZBD3w3lklrRx6lAawQsH6S3zv\n+Lizt4qPp3CjT/2o0ka7MBAt4M1U33xgWfTfy6z/AoGBAO7oElL8/TYMX0XSbcUr\nLvP1g96f/ZPbx+7SmJJi4OecKalmjQgZxKmAfl/s3jeHC9SupxZpjR525qTZLWlS\n8eTre04djtB4DKdgn9WTL0ij8/AQlOz3hGrLCWh1pkNWC1xaR3VqVNSIPFrcLuCO\nawATMy50n+dPf9cu5puI9w3a\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@smart-teacher-attaindance.iam.gserviceaccount.com",
+  "client_id": "116116909745826429032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40smart-teacher-attaindance.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
