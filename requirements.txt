@@ -1,2 +1,9 @@
-streamlit
 pandas
+streamlit
+streamlit-lottie
+firebase-admin
+bcrypt
+Pillow
+streamlit-option-menu
+streamlit-authenticator
+requests
